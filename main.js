@@ -13,6 +13,5 @@ button.addEventListener(`click`, event => {
         newliElement.textContent = rendom
         manzil.appendChild(newliElement)
         console.log(manzil)
-        manzil.style.display = `flex`
     }
 })
